@@ -1,4 +1,4 @@
-# Deep_Learning_Homework
+# Deep_Learning
 
 Authors: Santiago RUIZ and Khadija HAFSIA
 
